@@ -1,6 +1,6 @@
 # Halo
 
-Minimalist Go web framework
+A lightweight and flexible Go web framework
 
 ## Installation
 
